@@ -1,0 +1,17 @@
+**Chrome - handle cookies consent popup**
+works in Italian but not in other languages, fimd a more solid alternative
+
+**Geolocation for coordinates of current position**
+right now i'm blocked by the cookie consent button in any site that i can scrape from and i have to give coordinates manually. if it's on a device, can get data from gps.
+
+**Getting origin and destination from Waze**
+for now, i have to manually give origin and destination into the browser for this (and the markers scraping) to works
+
+**Getting coordinates of markers**
+they are a bit off. not a lot, but enough to give wrong directions
+
+**Openrouteservice api"
+terms and conditions (and duration of the key) unclear
+
+
+
